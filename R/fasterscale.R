@@ -8,6 +8,8 @@
 #' 
 #' @return A matrix in which the column are centered to have zero mean, and they are also scaled to have standard deviation of 1.
 #' 
+#' @importFrom matrixStats colSds
+#'
 #' @export
 scale_faster = function(x){
   a = colMeans(x)

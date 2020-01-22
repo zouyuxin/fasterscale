@@ -12,4 +12,6 @@ Authors@R: person("Yuxin", "Zou", role=c("cre", "aut"),
 License: MIT + file LICENSE
 Imports:
     matrixStats
+Suggests:
+    testthat
 RoxygenNote: 7.0.2
