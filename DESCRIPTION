@@ -12,4 +12,4 @@ Authors@R: person("Yuxin", "Zou", role=c("cre", "aut"),
 License: MIT + file LICENSE
 Imports:
     matrixStats
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2
